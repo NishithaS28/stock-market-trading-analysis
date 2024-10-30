@@ -7,6 +7,7 @@ Features
 * Buy/Sell Signals: Generates buy/sell signals based on SMA crossovers.
 * Strategy Simulation: Backtests the strategy performance compared to a simple buy-and-hold strategy.
 * Visualization: Provides plots of stock prices, SMAs, and trade signals.
+  
 Project Structure
 The repository contains the following files:
 * AAPL_intraday.csv: Sample stock data for Apple's intraday trading data.
