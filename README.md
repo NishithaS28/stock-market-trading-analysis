@@ -9,6 +9,7 @@ Features
 * Visualization: Provides plots of stock prices, SMAs, and trade signals.
   
 Project Structure
+
 The repository contains the following files:
 * AAPL_intraday.csv: Sample stock data for Apple's intraday trading data.
 * symbols_valid_meta.csv: Metadata file that holds stock symbol information.
