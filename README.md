@@ -16,12 +16,13 @@ The repository contains the following files:
 * trade_signals.py: A script that calculates the SMA and generates trading signals.
 * trade_execution.py: A script that simulates trade executions and compares strategy performance.
 * README.md: The file that explains the project details (this file).
+  
 Setup Instructions
+
 Prerequisites
 Ensure you have the following software and libraries installed:
 * Python 3.x
-* Required Libraries:
-    * Pandas: pip install pandas
-    * Matplotlib: pip install matplotlib
-    * NumPy: pip install numpy
-
+Required Libraries:
+* Pandas: pip install pandas
+* Matplotlib: pip install matplotlib
+* NumPy: pip install numpy
