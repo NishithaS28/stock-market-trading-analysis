@@ -22,6 +22,7 @@ Setup Instructions
 Prerequisites
 Ensure you have the following software and libraries installed:
 * Python 3.x
+  
 Required Libraries:
 * Pandas: pip install pandas
 * Matplotlib: pip install matplotlib
