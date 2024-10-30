@@ -31,8 +31,6 @@ Required Libraries:
 
   
 
-  ## Stock Price with Buy/Sell Signals
-![Stock Price with Buy/Sell Signals](stock_price_buy_sell_signals (1).png)
+![Stock Price with Buy/Sell Signals](stock_price_buy_sell_signals.png)
+![Strategy vs Market Returns](strategy_vs_market_returns.png)
 
-## Strategy vs Market Returns
-![Strategy vs Market Returns](strategy_vs_market_returns (1).png)
