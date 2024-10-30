@@ -25,8 +25,3 @@ Ensure you have the following software and libraries installed:
     * Matplotlib: pip install matplotlib
     * NumPy: pip install numpy
 
-Python 3.x
-Required Libraries:
-Pandas: pip install pandas
-Matplotlib: pip install matplotlib
-NumPy: pip install numpy
