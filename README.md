@@ -30,8 +30,7 @@ Required Libraries:
 * NumPy: pip install numpy
 
   
-![Stock Price with Buy/Sell Signals](stock_price_buy_sell_signals (1).png)
+![Stock Price with Buy/Sell Signals](stock_price_buy_sell_signals%20(1).png)
+![Strategy vs Market Returns](strategy_vs_market_returns%20(1).png)
 
-
-![Strategy vs Market Returns](strategy_vs_market_returns (1).png)
 
