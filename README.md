@@ -22,6 +22,13 @@ Setup Instructions
 Prerequisites
 Ensure you have the following software and libraries installed:
 * Python 3.x
+
+  ## Stock Price with Buy/Sell Signals
+![Stock Price with Buy/Sell Signals](./stock_price_buy_sell_signals.png)
+
+## Strategy vs Market Returns
+![Strategy vs Market Returns](./strategy_vs_market_returns.png)
+
   
 Required Libraries:
 * Pandas: pip install pandas
